@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:designer="http://xamarin.com/mono/android/designer"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/tableLayout1">
+    <TableRow
+        android:id="@+id/tableRow1">
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            android:id="@+id/ename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:width="300px" />
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            android:id="@+id/edate"
+                  android:layout_width="match_parent"  
+      android:layout_height="wrap_content"
+            android:width="300px"/>
+        <TextView
+            android:minWidth="30px"
+            android:minHeight="30px"
+            android:id="@+id/edescription"
+                  android:layout_width="match_parent"  
+      android:layout_height="wrap_content"
+            android:width="400px"/>
+    </TableRow>
+</TableLayout>

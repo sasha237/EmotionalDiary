@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Positions>
+  <ItemPosition name="Безмятежность" x = "50" y = "26"/>
+  <ItemPosition name="Радость" x = "49" y = "33"/>
+  <ItemPosition name="Восторг" x = "49" y = "41"/>
+  <ItemPosition name="Любовь" x = "62" y = "29"/>
+  <ItemPosition name="Принятие" x = "75" y = "33"/>
+  <ItemPosition name="Доверие" x = "66" y = "38"/>
+  <ItemPosition name="Восхищение" x = "58" y = "44"/>
+  <ItemPosition name="Покорность" x = "80" y = "41"/>
+  <ItemPosition name="Тревога" x = "84" y = "50"/>
+  <ItemPosition name="Страх" x = "73" y = "50"/>
+  <ItemPosition name="Ужас" x = "61" y = "50"/>
+  <ItemPosition name="Трепет" x = "79" y = "59"/>
+  <ItemPosition name="Возбужение" x = "73" y = "67"/>
+  <ItemPosition name="Удивление" x = "65" y = "61"/>
+  <ItemPosition name="Изумление" x = "57" y = "55"/>
+  <ItemPosition name="Разачарование" x = "61" y = "70"/>
+  <ItemPosition name="Печаль" x = "49" y = "73"/>
+  <ItemPosition name="Грусть" x = "49" y = "66"/>
+  <ItemPosition name="Горе" x = "49" y = "57"/>
+  <ItemPosition name="Раскаяние" x = "38" y = "70"/>
+  <ItemPosition name="Скука" x = "25" y = "66"/>
+  <ItemPosition name="Неудовольствие" x = "33" y = "61"/>
+  <ItemPosition name="Отвращение" x = "41" y = "55"/>
+  <ItemPosition name="Презрение" x = "20" y = "58"/>
+  <ItemPosition name="Досада" x = "15" y = "50"/>
+  <ItemPosition name="Злость" x = "26" y = "50"/>
+  <ItemPosition name="Гнев" x = "38" y = "49"/>
+  <ItemPosition name="Агрессия" x = "19" y = "41"/>
+  <ItemPosition name="Интерес" x = "24" y = "33"/>
+  <ItemPosition name="Ожидание" x = "32" y = "38"/>
+  <ItemPosition name="Настороженность" x = "41" y = "44"/>
+  <ItemPosition name="Оптимизим" x = "37" y = "29"/>
+</Positions>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Дневник эмоций</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_delete_last">Удалить последний</string>
+    <string name="action_delete_all">Удалить все</string>
+    <string name="msg_saved">Сохранено!</string>
+    <string name="msg_deleted">Удалено!</string>
+    <string name="msg_cancelled">Отменено!</string>
+    <string name="msg_database_cleared">База очищена!</string>
+    <string name="msg_nothing_to_save">Нечего сохранять!</string>
+    <string name="msg_warning">Внимание!</string>
+    <string name="msg_information">Информация</string>
+    <string name="msg_delete_last_question">Удалить последний?</string>
+    <string name="msg_clear_db_question">Очистить базу?</string>
+    <string name="msg_yes">Да</string>
+    <string name="msg_no">Нет</string>
+    <string name="msg_ok">OK</string>
+    <string name="msg_cancel">Cancel</string>
+    <string name="msg_emotion_context">Контекст для эмоции "{0}" в {1}</string>
+    <string name="msg_write_emotion">Опиши контекст в этот момент</string>
+    <string name="msg_emotion">Эмоция</string>
+    <string name="msg_emotion_date">Дата</string>
+    <string name="msg_emotion_description">Описание</string>
+
+
+</resources>
